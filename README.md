@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Anait 👋
 
-<!--
-**anaitezk/anaitezk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior undergraduate student studying Computer Science with a passion for UI/UX design. I'm actively seeking opportunities to apply my skills and contribute to innovative projects in the field.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Senior undergraduate student majoring in Computer Science
+- 💼 Actively seeking opportunities in UI/UX design
+- 💻 Proficient in HTML, CSS, JavaScript,React and familiar with UI/UX design principles
+- 🌱 Constantly learning and exploring new technologies to enhance my skills
+
+## Programming Languages
+
+- HTML, CSS, JavaScript, React, PHP, C, C++, SQL, Python, Java.
+
+## Experience
+
+- **Freelance Wordpress Developer (August 2023 - Present)**
+  [laternity.gr](https://www.laternity.gr/) 
+
+## Education
+
+- **Bachelor of Computer Science and Telecommunications, National and Kapodistrian University of Athens (2024)**
+
+## Contact Me
+
+- 📧 Email: [ezekelian.anait@gmail.com](mailto:ezekelian.anait@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anaitezk)
