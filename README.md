@@ -12,11 +12,13 @@ I'm a senior undergraduate student studying Computer Science with a passion for 
 ## Programming Languages
 
 - HTML, CSS, JavaScript, React, PHP, C, C++, SQL, Python, Java.
+
 ![anaitezk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaitezk&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
 ## Experience
 
 - **Freelance Wordpress Developer (August 2023 - Present)**
+
   [laternity.gr](https://www.laternity.gr/) 
 
 ## Education
